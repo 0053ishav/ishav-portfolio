@@ -1,0 +1,18 @@
+{
+  "facts": [
+    "Hello! I am Ishav, a full-time ServiceNow Developer and a passionate web developer.",
+    "I specialize in Next.js, React.js, and Three.js, with a strong interest in frontend and backend development.",
+    "I am actively exploring monorepo architectures and building interactive web experiences at ishav.space."
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Three.js",
+    "ServiceNow",
+    "Appwrite",
+    "Tailwind CSS",
+    "Data Structures & Algorithms"
+  ]
+}

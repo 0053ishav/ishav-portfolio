@@ -1,0 +1,74 @@
+[
+  {
+    "index": 1,
+    "title": "Finance Tracker",
+    "tools": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Neon Database",
+      "Drizzle ORM",
+      "Clerk",
+      "Zod",
+      "Recharts"
+    ],
+    "live_preview": "https://finance.ishav.space",
+    "thumbnail": "/assets/images/projects/finance-tracker.png",
+    "overview": "💰 Finance Tracker helps users manage their investments, track spending, and plan budgets efficiently, integrating with various financial data sources.",
+    "repo": "https://github.com/0053ishav/Finance-Tracker"
+  },
+  {
+    "index": 2,
+    "title": "Ishan Medicose",
+    "tools": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Appwrite",
+      "ShadCN",
+      "Emailjs",
+      "Zod"
+    ],
+    "live_preview": "https://ishanmedicose.ishav.space",
+    "thumbnail": "/assets/images/projects/ishan-medicose.png",
+    "overview": "🩺 Ishan Medicose is an online pharmacy platform providing customers with easy access to medicines, healthcare products, and medical consultations.",
+    "repo": "https://github.com/0053ishav/ishan_medicose"
+  },
+  {
+    "index": 3,
+    "title": "Ishan Medicose Admin",
+    "tools": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Appwrite",
+      "Firebase",
+      "Chart.js",
+      "ShadCN",
+      "Zod",
+      "React Hook Form"
+    ],
+    "live_preview": "https://ishanmedicose-admin.ishav.space",
+    "thumbnail": "/assets/images/projects/ishan-medicose-admin.png",
+    "overview": "🛠 Ishan Medicose Admin is a dashboard for managing orders, products, and customer interactions for the Ishan Medicose platform.",
+    "repo": "https://github.com/0053ishav/ishan_medicose_admin"
+  },
+  {
+    "index": 4,
+    "title": "3D Portfolio",
+    "tools": [
+      "Vite",
+      "Three.js",
+      "Tailwind CSS",
+      "Three.js",
+      "React Three Fiber",
+      "React Three Drei",
+      "Email JS",
+      "Mixamo"
+    ],
+    "live_preview": "https://3dportfolio.ishav.space",
+    "thumbnail": "/assets/images/projects/3d-portfolio.png",
+    "overview": "🌌 3D Portfolio is an interactive, visually stunning personal website showcasing projects, skills, and experiences with immersive 3D elements.",
+    "repo": "https://github.com/0053ishav/3d-portfolio"
+  }
+]
