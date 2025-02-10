@@ -22,7 +22,7 @@ To install the project, follow these steps:
 
 1. Clone the repository: 
 
-        git clone https://github.com/0007ishav/Ishav_Portfolio.git
+        git clone https://github.com/0053ishav/ishav-portfolio.git
     
 
 2. Navigate to the project directory: cd Ishav_Portfolio
