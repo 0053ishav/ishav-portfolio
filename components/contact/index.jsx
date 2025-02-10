@@ -4,7 +4,7 @@ import styles from "./contact.module.sass";
 import { BsTelephone } from "react-icons/bs";
 import { AiOutlineMail } from "react-icons/ai";
 import { HiOutlineLocationMarker } from "react-icons/hi";
-import { FiGithub, FiInstagram } from "react-icons/Fi";
+import { FiGithub, FiInstagram } from "react-icons/fi";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiHashnode } from "react-icons/si";
 

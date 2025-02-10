@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./social-lists.module.sass";
-import { FiGithub } from "react-icons/Fi";
+import { FiGithub } from "react-icons/fi";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiHashnode } from "react-icons/si";
 
