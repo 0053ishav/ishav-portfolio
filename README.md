@@ -1,4 +1,4 @@
-# Ishav_Portfolio
+# Ishav-Portfolio
 
 This is a repository for my personal portfolio website.
 
@@ -25,7 +25,7 @@ To install the project, follow these steps:
         git clone https://github.com/0053ishav/ishav-portfolio.git
     
 
-2. Navigate to the project directory: cd Ishav_Portfolio
+2. Navigate to the project directory: cd Ishav-Portfolio
 3. Install the dependencies: npm install
 
 
@@ -35,7 +35,7 @@ To run the project locally, follow these steps:
 
 1. Navigate to the project directory: 
 
-    cd Ishav_Portfolio
+    cd Ishav-Portfolio
     
 2. Start the development server:
 
